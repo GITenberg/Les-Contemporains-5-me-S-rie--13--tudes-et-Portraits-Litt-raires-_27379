@@ -1,0 +1,35 @@
+_repo: Les-Contemporains-5-me-S-rie--13--tudes-et-Portraits-Litt-raires-_27379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27379'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcc 'PQ'
+- !lcsh 'Authors, French'
+tableOfContents: Guy de Maupassant -- André Theuriet -- Marcel Prévost -- Paul Margueritte
+  -- Gilbert Augustin-Thierry -- Édouard Rod -- Stéphane Mallarmé -- Stanley -- Guillaume
+  II -- Dom Pedro -- Renan -- Billets du matin.
+title: "Les Contemporains, 5ème Série\r\nÉtudes et Portraits Littéraires,"
+url: http://www.gutenberg.org/ebooks/27379
